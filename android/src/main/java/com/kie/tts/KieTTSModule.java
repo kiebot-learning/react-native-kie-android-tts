@@ -22,7 +22,6 @@ public class KieTTSModule extends ReactContextBaseJavaModule {
     private String[] sentences;
     private HashMap<String, String> params = new HashMap<>();
     private boolean isPaused = false, isStopped = false;
-    final ReactApplicationContext reactContext;
     private Promise voicePromise;
     private static final String TTS_ERROR = "TTS_ERROR";
 
