@@ -1,0 +1,17 @@
+{
+  "name": "react-native-kie-android-tts",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Kiebot Learning",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.60.3"
+  }
+}
